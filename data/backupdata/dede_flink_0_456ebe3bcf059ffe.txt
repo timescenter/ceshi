@@ -1,0 +1,3 @@
+INSERT INTO `dede_flink` VALUES('10','1','http://www.mokuge.com','织梦模板','','admin@mokuge.com','','1417238890','1','2');
+INSERT INTO `dede_flink` VALUES('12','1','http://www.chdai.com','虚拟货源','','admin@mokuge.com','','1417238914','1','2');
+INSERT INTO `dede_flink` VALUES('11','1','http://www.1024ym.com','源码超市','','admin@mokuge.com','','1417238904','1','2');

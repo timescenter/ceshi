@@ -1,0 +1,1 @@
+<a class="r-img" href="[field:arcurl/]" target="_blank" title="[field:fulltitle/]"><img src="[field:litpic/]" onload="loadImage(this,228,171)" alt="[field:fulltitle/]" onerror="loadImageError(this,'.r-img')"/><span>[field:title/]</span></a>

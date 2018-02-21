@@ -1,0 +1,46 @@
+<?php
+$z[0]=Array("global","",259,285);
+$z[0][4]['name']="cfg_cmspath";
+$z[1]=Array("field","",838,857);
+$z[1][4]['name']="title";
+$z[2]=Array("global","",858,884);
+$z[2][4]['name']="cfg_webname";
+$z[3]=Array("field","",925,954);
+$z[3][4]['name']="keywords";
+$z[4]=Array("field","",994,1052);
+$z[4][4]['name']="description";
+$z[4][4]['function']="html2text(@me)";
+$z[5]=Array("include","",1188,1223);
+$z[5][4]['filename']="head.htm";
+$z[6]=Array("channel","\r\n      <a href='[field:typeurl/]'>[field:typename/]</a>\r\n      ",1514,1698);
+$z[6][4]['type']="son";
+$z[6][4]['currentstyle']="<a href='~typelink~' class='curr'>~typename~</a>";
+$z[7]=Array("field","",1789,1808);
+$z[7][4]['name']="title";
+$z[8]=Array("field","",1857,1913);
+$z[8][4]['name']="pubdate";
+$z[8][4]['function']="MyDate('Y-m-d H:i',@me)";
+$z[9]=Array("field","",1932,1952);
+$z[9][4]['name']="source";
+$z[10]=Array("field","",1971,1991);
+$z[10][4]['name']="writer";
+$z[11]=Array("field","",2056,2074);
+$z[11][4]['name']="body";
+$z[12]=Array("prenext","",2145,2170);
+$z[12][4]['get']="pre";
+$z[13]=Array("prenext","",2193,2219);
+$z[13][4]['get']="next";
+$z[14]=Array("arclist","\r\n		   <a class=\"r-img\" href=\"[field:arcurl/]\" target=\"_blank\" title=\"[field:fulltitle/]\"><img src=\"[field:litpic/]\" onload=\"loadImage(this,228,171)\" alt=\"[field:fulltitle/]\" onerror=\"loadImageError(this,'.r-img')\"/><span>[field:title/]</span></a>\r\n		  ",3312,3646);
+$z[14][4]['typeid']="11";
+$z[14][4]['orderby']="click";
+$z[14][4]['limit']="0,1";
+$z[14][4]['titlelen']="32";
+$z[15]=Array("arclist","\r\n	   <li><a href=\"[field:arcurl/]\" target=\"_blank\" title=\"[field:fulltitle/]\">[field:title/]</a></li>\r\n      ",3673,3864);
+$z[15][4]['typeid']="11";
+$z[15][4]['orderby']="click";
+$z[15][4]['limit']="1,7";
+$z[15][4]['titlelen']="32";
+$z[16]=Array("include","",4112,4149);
+$z[16][4]['filename']="footer.htm";
+
+?>
